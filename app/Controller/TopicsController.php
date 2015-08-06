@@ -65,7 +65,7 @@
     
     public function update()
     {
-        
+        echo "this is a test of git";
     }
   }
   
